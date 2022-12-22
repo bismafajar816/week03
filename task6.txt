@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+main()
+{
+string name;
+int matricMarks;
+int intermediateMarks;
+int ecatMarks;
+float totalAggregate;
+cout <<"name: " ;
+cin >>name;
+cout <<"matricMarks:    /1100";
+cin >> matricMarks/1100;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

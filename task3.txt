@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+main ()
+{
+float pound;
+int pounds;
+float kgs;
+pound=o.45kg;
+cout <<"pounds: ";
+cin>> pounds;
+kgs= pound*pounds;
+cout<<pounds<<"pounds in kgs: "<<kgs;
+
+
+
+
+
+
+
+
+
+
+
+
+}

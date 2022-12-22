@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int Mb;
+int Kb;
+int Bytes;
+int Bits;
+Mb=1024Kb;
+Kb=1024Bytes;
+Bytes=8Bits;
+cout <<"enter Mb: ";
+cin >>Mb;
+cout<<Bits<<Mb in Bits<<Bits;
+
+
+
+
+
+
+
+
+
+}
